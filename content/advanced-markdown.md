@@ -15,7 +15,7 @@ There are lots of powerful things you can do with the Markdown
 
 If you've gotten pretty comfortable with [all the basics](/the-editor/) of writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do!
 
-As with the last post, you'll want to be looking at the source [directly on github](https://github.com/stonecircle/ember-ghost/blob/master/blueprints/ember-ghost/files/content/advanced-markdown.md) or in your local editor as you read it so that you can see all the Markdown code we're using.
+As with the last post, you'll want to be looking at the source [directly on github](https://github.com/empress/ember-ghost/blob/master/blueprints/ember-ghost/files/content/advanced-markdown.md) or in your local editor as you read it so that you can see all the Markdown code we're using.
 
 
 ## Special formatting
@@ -41,6 +41,8 @@ There are two types of code elements which can be inserted in Markdown, the firs
 One neat trick which you can use in Markdown to distinguish between different types of images is to add a `#hash` value to the end of the source URL, and then target images containing the hash with special styling. For example:
 
 ![walking](https://casper.ghost.org/v1.0.0/images/walking.jpg#full)
+
+![2walkig](../public/images/built-by.jpg)
 
 which is styled with...
 
